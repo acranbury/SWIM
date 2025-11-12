@@ -187,7 +187,7 @@
 			]
 		}
 	],
-	"url": "https://github.com/SalieriC/SWADE-Immersive-Macros",
-	"manifest": "https://raw.githubusercontent.com/SalieriC/SWADE-Immersive-Macros/main/swim/module.json",
-	"download": "https://github.com/SalieriC/SWADE-Immersive-Macros/blob/main/swim.zip?raw=true"
+	"url": "https://github.com/acranbury/SWIM",
+	"manifest": "https://raw.githubusercontent.com/acranbury/SWIM/main/swim/module.json",
+	"download": "https://github.com/acranbury/SWIM/blob/main/swim.zip?raw=true"
 }
